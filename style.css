@@ -1,0 +1,10 @@
+*{
+    font-family: Poppins;
+}
+
+i:hover{
+    color:#003049;
+    cursor: pointer;
+    transform: translatey(-.5rem);
+    transition: 1s;
+}
